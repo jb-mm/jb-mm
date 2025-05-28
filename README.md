@@ -1,7 +1,7 @@
 # Hi, I'm Yan Naing Phyo Wai and also known as Htet Aung. 👋
 
 I'm a full-stack developer passionate about building web apps and solving real-world problems with code.
-I'm currently work on HTUT IT & Media Co.,Ltd as a Laravel Web Developer.
+I'm currently work on HTUT Media Co.,Ltd as a Laravel Web Developer.
 
 <!--
 ## 🚀 Projects
