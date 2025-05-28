@@ -16,9 +16,6 @@ I'm currently work on HTUT IT & Media Co.,Ltd as a Laravel Web Developer.
 - **Languages:** PHP, JavaScript
 - **Libraries:** Svelte, Vue
 - **Frameworks:** Laravel, SvelteKit, Bootstrap
-- <!--
-- **Tools:** Git, Docker, Vite, FFMPEG
--->
   
 <!--
 ## 📈 GitHub Stats
