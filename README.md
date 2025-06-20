@@ -14,8 +14,11 @@ I'm currently work on HTUT Media Co.,Ltd as a Laravel Web Developer.
 ## 🛠️ Skills
 
 - **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel, SvelteKit
 - **Libraries:** Svelte, Vue
-- **Frameworks:** Laravel, SvelteKit, Bootstrap
+- **Tookits:** Bootstrap, Github, Gitlab, Bitbucket, Tailwindcss
+- **DevOps:** Nginx, Caddy, Apache, Mysql, Docker, Nodejs
+- **Clouds:** DigitalOcean, Supabase, Firebase
   
 <!--
 ## 📈 GitHub Stats
