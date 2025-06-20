@@ -1,7 +1,9 @@
-# Hi, I'm Yan Naing Phyo Wai and also known as Htet Aung. 👋
+# 👋 Hi, I'm Yan Naing Phyo Wai and also known as Htet Aung
 
-I'm a full-stack developer passionate about building web apps and solving real-world problems with code.
-I'm currently work on HTUT Media Co.,Ltd as a Laravel Web Developer.
+Full-stack Laravel web development with a passion for building robust and scalable web applications and delivering real-world solutions.
+Experienced Laravel web developer with 6+ years of expertise in building and maintaining robust, scalable, enterprise-level applications.
+Proven ability to solve complex technical problems and drive operational improvements through efficient coding and system optimization.
+Skilled in both backend development and front-end technologies, with a strong understanding of application behavior, architecture, and user experience.
 
 <!--
 ## 🚀 Projects
@@ -29,7 +31,7 @@ I'm currently work on HTUT Media Co.,Ltd as a Laravel Web Developer.
 
 ## 📫 Contact
 
-- Email: joyboy.mm@gmail.com
+- Email: yan9phyowai@gmail.com
 - LinkedIn: [linkedin.com/in/yan-9-phyo-wai-497109156](https://linkedin.com/in/yan-9-phyo-wai-497109156)
 
 <!--
