@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Yan Naing Phyo Wai and also known as Htet Aung
 
-Full-stack Laravel web development with a passion for building robust and scalable web applications and delivering real-world solutions.
-Experienced Laravel web developer with 6+ years of expertise in building and maintaining robust, scalable, enterprise-level applications.
-Proven ability to solve complex technical problems and drive operational improvements through efficient coding and system optimization.
-Skilled in both backend development and front-end technologies, with a strong understanding of application behavior, architecture, and user experience.
+- Full-stack Laravel web development with a passion for building robust and scalable web applications and delivering real-world solutions.
+- Experienced Laravel web developer with over 6 years of hands-on expertise in designing, developing, and maintaining robust, scalable, and enterprise-grade applications.
+- Proven ability to solve complex technical problems and drive operational improvements through efficient coding and system optimizationProven track record of solving complex technical challenges and enhancing system performance through clean, efficient code and smart architecture optimization.
+- Proficient in both backend development and front-end technologies, with a solid understanding of software architecture, system behavior, and user experience design.
+- A proactive team player with a continuous learning mindset and a strong willingness to adopt and adapt to new technologies
 
 <!--
 ## 🚀 Projects
