@@ -16,9 +16,9 @@
 
 ## 🛠️ Skills
 
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel, SvelteKit
-- **Libraries:** Svelte, Vue
+- **Languages:** PHP
+- **Frameworks:** Laravel
+- **Libraries:** Livewire, Inertia
 - **Tookits:** Bootstrap, Github, Gitlab, Bitbucket, Tailwindcss
 - **DevOps:** Nginx, Caddy, Apache, Mysql, Docker, Nodejs
 - **Clouds:** DigitalOcean, Supabase, Firebase
