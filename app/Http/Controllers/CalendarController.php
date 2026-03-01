@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Services\CalendarService;
 use Carbon\Carbon;
+use Illuminate\Contracts\View\View;
 use Illuminate\Http\Request;
 
 class CalendarController extends Controller
@@ -12,7 +13,7 @@ class CalendarController extends Controller
         protected CalendarService $calendarService,
     ) {}
 
-    public function index(Request $request)
+    public function index(Request $request): View
     {
         $year = (int) $request->query('year', Carbon::today()->year);
         $month = (int) $request->query('month', Carbon::today()->month);
