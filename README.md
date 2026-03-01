@@ -1,53 +1,59 @@
-# 👋 Hi, I'm Yan Naing Phyo Wai and also known as Htet Aung
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-- Full-stack Laravel web development with a passion for building robust and scalable web applications and delivering real-world solutions.
-<!--
-- Experienced Laravel web developer with over 6 years of hands-on expertise in designing, developing, and maintaining robust, scalable, and enterprise-grade applications.
-- Proven ability to solve complex technical problems and drive operational improvements through efficient coding and system optimizationProven track record of solving complex technical challenges and enhancing system performance through clean, efficient code and smart architecture optimization.
-- Proficient in both backend development and front-end technologies, with a solid understanding of software architecture, system behavior, and user experience design.
-- A proactive team player with a continuous learning mindset and a strong willingness to adopt and adapt to new technologies
--->
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-<!--
-## 🚀 Projects
+## About Laravel
 
-- [My Portfolio Website](https://myportfolio.com) – A personal website built with Laravel and Vue.
-- [Task Manager App](https://github.com/johndoe/task-manager) – A productivity app using Laravel and Inertia.
-- [Background Remover](https://github.com/johndoe/bg-remover) – Image background removal using Python and Rembg.
--->
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-## 🛠️ Skills
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-- **Languages:** PHP
-- **Frameworks:** Laravel
-- **Libraries:** Livewire, Inertia
-- **Tookits:** Bootstrap, Github, Gitlab, Bitbucket, Tailwindcss
-- **DevOps:** Nginx, Caddy, Apache, Mysql, Docker, Nodejs
-- **Clouds:** DigitalOcean, Supabase, Firebase
-  
-<!--
-## 📈 GitHub Stats
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true)
--->
+## Learning Laravel
 
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
 
-## 📫 Contact
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-- Email: yan9phyowai@gmail.com
-- LinkedIn: [linkedin.com/in/yan-9-phyo-wai-497109156](https://linkedin.com/in/yan-9-phyo-wai-497109156)
+## Laravel Sponsors
 
-<!--
-**jb-mm/jb-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-Here are some ideas to get you started:
+### Premium Partners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Vehikl](https://vehikl.com)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
+- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+- **[Redberry](https://redberry.international/laravel-development)**
+- **[Active Logic](https://activelogic.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
